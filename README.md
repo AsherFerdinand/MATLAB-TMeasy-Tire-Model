@@ -1,5 +1,4 @@
-# MATLAB-TMeasy-Tire-Model
-Applying TMeasy Model on a steady state vehicle tire
+
 # MATLAB TMeasy Tire Model
 
 A MATLAB implementation of a **steady-state tire friction model based on the TMeasy approach**. The model describes tire-road friction behavior as a function of longitudinal and lateral slip while accounting for variations in vertical wheel load.
